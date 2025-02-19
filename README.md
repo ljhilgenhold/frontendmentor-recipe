@@ -55,7 +55,6 @@ To see how you can add code snippets, see below:
 <h1>Some HTML code I'm proud of</h1>
 ```
 ```css
-```
 @media screen and (min-width: 800px) {
     body {
         background-color: var(--stone-100);
