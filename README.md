@@ -21,10 +21,10 @@ Frontend Mentor Recipe Challenge.
 
 ### Screenshot
 
-![](./fmrecipe1.jpg)
-![](./fmrecipe2.jpg)
-![](./fmrecipe3.jpg)
-![](./fmrecipe4.jpg)
+![screenshot1](assets/images/fmrecipe1.jpg)
+![screenshot2](assests/images/fmrecipe2.jpg)
+![screenshot3](assets/images/fmrecipe3.jpg)
+![screenshot4](assets/images/fmrecipe4.jpg)
 
 
 ### Links
