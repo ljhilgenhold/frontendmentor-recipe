@@ -29,8 +29,8 @@ Frontend Mentor Recipe Challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-layout-mobile-first-css-variables-html-css3-4IonOeVik7)
+- Live Site URL: [live site URL](https://ljhilgenhold.github.io/frontendmentor-recipe/)
 
 ## My process
 Started with a mobile-first approach and then created the desktop version after.
